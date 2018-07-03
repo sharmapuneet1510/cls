@@ -1,0 +1,16 @@
+03-07-2018 16:45:55,648-main--INFO -com.nomura.application.runner.Run:Congifuring logger
+03-07-2018 16:46:28,572-main--INFO -com.nomura.application.runner.Run:Starting Run on Puneets-MacBook-Pro.local with PID 1274 (/puneetsharma/project/grandviewtech/ladder/ladder.1.0/LogGenerationUtil/target/classes started by puneetsharma in /puneetsharma/project/grandviewtech/ladder/ladder.1.0/LogGenerationUtil)
+03-07-2018 16:46:28,628-main--INFO -com.nomura.application.runner.Run:No active profile set, falling back to default profiles: default
+03-07-2018 16:46:29,277-main--INFO -org.springframework.context.annotation.AnnotationConfigApplicationContext:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@618b19ad: startup date [Tue Jul 03 16:46:29 IST 2018]; root of context hierarchy
+03-07-2018 16:46:30,986-main--INFO -com.nomura.application.runner.Run:Started Run in 28.136 seconds (JVM running for 66.805)
+03-07-2018 16:46:31,152-main--INFO -com.nomura.application.runner.Run:User 2a7d5494-7020-4169-a13a-2066e53be9cd
+03-07-2018 16:46:31,152-main--INFO -com.nomura.application.runner.Run:User 581173f1-3da1-47f3-9b4b-e9f01208659b
+03-07-2018 16:46:31,152-main--INFO -com.nomura.application.runner.Run:User a1f0f1dc-b0a2-421b-b832-9e30f5d9f01f
+03-07-2018 16:46:31,153-main--INFO -com.nomura.application.runner.Run:User d8323835-f66a-446d-a82a-5974dfc00194
+03-07-2018 16:46:31,153-main--INFO -com.nomura.application.runner.Run:User 5565ba25-f041-41bb-b326-62e4397718ef
+03-07-2018 16:46:31,153-main--INFO -com.nomura.application.runner.Run:User d723eeea-4cef-4d8b-b231-19338b5ec18c
+03-07-2018 16:46:31,153-main--INFO -com.nomura.application.runner.Run:User 156d88a6-94b9-4c80-a1c2-63e1a112a889
+03-07-2018 16:46:31,153-main--INFO -com.nomura.application.runner.Run:User 3b99bdd8-c6e9-4600-b04d-c4bf3098c536
+03-07-2018 16:46:31,154-main--INFO -com.nomura.application.runner.Run:User 586b4db2-dc9d-4d7b-a7d7-bafd79c21df1
+03-07-2018 16:46:31,154-main--INFO -com.nomura.application.runner.Run:User 65755aff-9a89-4a1a-b536-b9bba8e81a52
+03-07-2018 16:46:31,156-Thread-1--INFO -org.springframework.context.annotation.AnnotationConfigApplicationContext:Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@618b19ad: startup date [Tue Jul 03 16:46:29 IST 2018]; root of context hierarchy
